@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h> //time()
 int multiplicacionDinamica(int numero, int numero2);
 
 int main() {
